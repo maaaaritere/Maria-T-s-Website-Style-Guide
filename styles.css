@@ -1,0 +1,115 @@
+body{
+    margin: 0 auto;
+    width: 70%;
+    font-family: monospace;
+}
+
+.box{
+    border: 1px solid gray;
+    padding: 0 30px;
+    margin-bottom: 5px;
+}
+
+.color-box{
+    display: block;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.color-box-LightCoral{
+    display: inline-block;
+    width: 32%;
+    margin: 5px auto;
+    background-color: lightcoral;
+    text-align: center;
+}
+
+.color-box-Lavender{
+    display: inline-block;
+    width: 32%;
+    margin: 5px auto;
+    background-color: lavender;
+    text-align: center;
+}
+
+.color-box-DarkSeaGreen{
+    display: inline-block;
+    width: 32%;
+    margin: 5px auto;
+    background-color: darkseagreen;
+    text-align: center;
+}
+
+.color-box-SkyBlue{
+    display: inline-block;
+    width: 32%;
+    margin: 5px auto;
+    background-color: skyblue;
+    text-align: center;
+}
+
+.font-box-EB-Garamond{
+    font-family: 'EB Garamond';
+}
+
+.font-box-EB-Garamond h3{
+    margin-bottom: 10px;
+}
+
+.normal-EB-Garamond{
+    margin: 8px 0;
+}
+
+.bold-EB-Garamond{
+    margin: 8px 0;
+    font-weight: 700;
+}
+
+.italic-EB-Garamond{
+    margin: 8px 0;
+    font-style: italic;
+}
+
+.font-box-IBM-Plex-Mono{
+    font-family: 'IBM Plex Mono';
+}
+
+.font-box-IBM-Plex-Mono h3{
+    margin-bottom: 10px;
+}
+
+.normal-IBM-Plex-Mono{
+    margin: 8px 0;
+}
+
+.bold-IBM-Plex-Mono{
+    margin: 8px 0;
+    font-weight: 700;
+}
+
+.italic-IBM-Plex-Mono{
+    margin: 8px 0;
+    font-style: italic;
+}
+
+.font-box-Playfair-Display{
+    font-family: 'Playfair Display';
+}
+
+.font-box-Playfair-Display h3{
+    margin-bottom: 10px;
+}
+
+.normal-Playfair-Display{
+    margin: 8px 0;
+}
+
+.bold-Playfair-Display{
+    margin: 8px 0;
+    font-weight: 700;
+}
+
+.italic-Playfair-Display{
+    margin: 8px 0 20px 0;
+    font-style: italic;
+}
